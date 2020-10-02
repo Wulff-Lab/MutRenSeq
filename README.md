@@ -8,3 +8,5 @@ A detailed protocol is described in [https://link.springer.com/protocol/10.1007%
 The source code and executable jar files were copied from [https://github.com/steuernb/MutantHunter](https://github.com/steuernb/MutantHunter
 ) on 2nd October 2020.
 
+For details and questions please refer to the original repository mentioned above.
+
